@@ -22,7 +22,11 @@ We do not sell or share your personal information with third parties. However, w
 
 We take reasonable measures to protect your information from unauthorized access or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
 
-## 5. Changes to this Policy:
+## 5. Children's Privacy:
+
+Our app is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete the information as soon as possible.
+
+## 6. Changes to this Policy:
 
 We may update this privacy policy from time to time. If we make significant changes, we will notify you by email or through the app.
 
